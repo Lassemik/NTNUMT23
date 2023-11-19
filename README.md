@@ -1,4 +1,9 @@
 # NTNUMT23
 NTNU - Master Thesis 2023-2024 (Authorship Verification with rolling attribution)
 
-This is a test
+# About 
+This code is used as part of my master thesis 2023-2024 to solve an authorship verification problem using rolling attribution. 
+
+# Method
+- Docker container
+- Python
