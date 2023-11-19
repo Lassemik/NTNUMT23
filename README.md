@@ -7,3 +7,5 @@ This code is used as part of my master thesis 2023-2024 to solve an authorship v
 # Method
 - Docker container
 - Python
+
+# Setup and install 
